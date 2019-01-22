@@ -13,4 +13,5 @@ majd egyszerre tanulni a machine learning elméletét és gyakorlatát. Szeretn�
 
 ### Dóri
 A célom, hogy magamra szedjem a hiányzó IT szakzsargont (pl. összeszótárazni azokat a koncepciókat amik megvannak a term tudományos kutatásból, de ott más néven futnak) és basic skilleket, összekössem magamban az itt-ott lógó tudásfoszlányokat, hogy mire befejezem a Phd-t (2019 ősz) karriert válthassak. 
+
 My goal is to pick up the missing IT lingo (e.g. link it to the concepts that I already know from the natural sciences, but under a different term) and basic skills, tie up some loose ends and fill in some gaps in my knowledge, so that I can change career upon finishing my PhD (autumn of 2019).
