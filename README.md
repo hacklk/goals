@@ -21,8 +21,6 @@ My goal is to learn as much, that will end me up in a Data Scientist job later t
 
  
 
-Nem tudom hogy kéne kitölteni a táblázatot, csinálhatunk 0-5 skálát magyarázattal, de lehet hogy szöveges és mindenki beírja h milyen tapasztalata van ami ide tartozik 
-
 |         | python | adatbázis | statisztika | Machine learning | Adat vizualizáció | Git | Big data | R | other       |
 |---------|--------|-----------|-------------|------------------|-------------------|-----|----------|---|-------------|
 |  Balázs | 3      | 3         | 1           | 1                | 1                 | 3   | 1        | 1 | -           |
