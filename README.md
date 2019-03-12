@@ -20,7 +20,7 @@ My goal is to pick up the missing IT lingo (e.g. link it to the concepts that I 
 My goal is to learn as much, that will end me up in a Data Scientist job later this year. The other motivation for me is to share my knowledge with other enthusiast people in the group.
 
  
-
+### Skills
 |         | python | adatbázis | statisztika | Machine learning | Adat vizualizáció | Git | Big data | R | other       |
 |---------|--------|-----------|-------------|------------------|-------------------|-----|----------|---|-------------|
 |  Balázs | 3      | 3         | 1           | 1                | 1                 | 3   | 1        | 1 | -           |
