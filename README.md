@@ -18,3 +18,28 @@ My goal is to pick up the missing IT lingo (e.g. link it to the concepts that I 
 
 ### Balázs
 My goal is to learn as much, that will end me up in a Data Scientist job later this year. The other motivation for me is to share my knowledge with other enthusiast people in the group.
+
+ 
+
+Nem tudom hogy kéne kitölteni a táblázatot, csinálhatunk 0-5 skálát magyarázattal, de lehet hogy szöveges és mindenki beírja h milyen tapasztalata van ami ide tartozik 
+
+|         | python | adatbázis | statisztika | Machine learning | Adat vizualizáció | Git | Big data | R | other       |
+|---------|--------|-----------|-------------|------------------|-------------------|-----|----------|---|-------------|
+|  Balázs | 3      | 3         | 1           | 1                | 1                 | 3   | 1        | 1 | -           |
+| Berci   |        |           |             |                  |                   |     |          |   |             |
+| Dóri    |  1     | 2         | 4           | 2                | 3                 | 2   | 1        | 2 | MATLAB(spm) |
+| Levente |        |           |             |                  |                   |     |          |   |             |
+
+### HOSTS & Ideas for upcoming workshops 
+
+Dóri: Introduction to Linear Modeling in Python; continue Statistical Thinking in Python; modelling, machine learning 101 
+
+
+Balázs: egyelőre nincs új témaötletem. 
+
+ 
+
+### WISHLIST: 
+
+More codegame sessions, with group brainstorming (flipchart needed!) 
+
