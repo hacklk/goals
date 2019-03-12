@@ -4,8 +4,8 @@ Nem tudom hogy kéne kitölteni a táblázatot, csinálhatunk 0-5 skálát magya
 |         | python | adatbázis | statisztika | Machine learning | Adat vizualizáció | Git | Big data | R | other       |
 |---------|--------|-----------|-------------|------------------|-------------------|-----|----------|---|-------------|
 |  Balázs | 3      | 3         | 1           | 1                | 1                 | 3   | 1        | 1 | -           |
-| Berci   |        |           |             |                  |                   |     |          |   |             |
-| Dóri    |  1     | 2         | 4           | 2                | 3                 | 2   | 1        | 2 | MATLAB(spm) |
+| Berci   | 3      | 3         | 1           | 1                | 3                 | 1   | 0        | 0 | PowerBI     |
+| Dóri    | 1      | 2         | 4           | 2                | 3                 | 2   | 1        | 2 | MATLAB(spm) |
 | Levente |        |           |             |                  |                   |     |          |   |             |
 
 ### HOSTS & Ideas for upcoming workshops 
@@ -15,8 +15,12 @@ Dóri: Introduction to Linear Modeling in Python; continue Statistical Thinking 
 
 Balázs: egyelőre nincs új témaötletem. 
 
+Berci : Introduction to Linear Modeling in Python -t Dórival feldolgozni. 
+        - Pandasban filterezés ez a Notebook 106 és 107.
+
  
 
 ### WISHLIST: 
 
 More codegame sessions, with group brainstorming (flipchart needed!) 
+Berci:  - Git képzés
