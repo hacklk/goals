@@ -3,7 +3,7 @@ Nem tudom hogy kéne kitölteni a táblázatot, csinálhatunk 0-5 skálát magya
 
 |         | python | adatbázis | statisztika | Machine learning | Adat vizualizáció | Git | Big data | R | other       |
 |---------|--------|-----------|-------------|------------------|-------------------|-----|----------|---|-------------|
-|  Balázs | 3      | 3         | 1           | 1                | 1                 | 3   | 1        | 1 | -           |
+|  Balázs | 3      | 3         | 1           | 1                | 1                 | 3   | 0        | 0 | -           |
 | Berci   | 3      | 3         | 1           | 1                | 3                 | 1   | 0        | 0 | PowerBI     |
 | Dóri    | 1      | 2         | 4           | 2                | 3                 | 2   | 1        | 2 | MATLAB(spm) |
 | Levente |        |           |             |                  |                   |     |          |   |             |
