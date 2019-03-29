@@ -7,6 +7,7 @@ Nem tudom hogy kéne kitölteni a táblázatot, csinálhatunk 0-5 skálát magya
 | Berci   | 3      | 3         | 1           | 1                | 3                 | 1   | 0        | 0 | PowerBI     |
 | Dóri    | 1      | 2         | 4           | 2                | 3                 | 2   | 1        | 2 | MATLAB(spm) |
 | Levente | 2      | 1         | 1           | 1                | 1                 | 2   | 0        | 0 | infra       |
+| Krisztian | 3      | 3         | 1           | 3                | 1                 | 1   | 0        | 0 | Önképzési tanulási terv, RaspberryPi projects       |
 
 ### HOSTS & Ideas for upcoming workshops 
 
